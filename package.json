@@ -1,7 +1,7 @@
 {
-  "name": "Trillo",
+  "name": "nexter",
   "version": "1.0.0",
-  "description": "trillo app",
+  "description": "Nexter app",
   "main": "index.js",
   "scripts": {
     "watch:sass": "sass --watch ./sass/main.scss ./css/style.css",
